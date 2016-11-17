@@ -21,3 +21,10 @@
 5. install mailx
 
 DONE!
+
+
+More information:
+[+] https://www.server-world.info/en/note?os=CentOS_7&p=squid&f=2
+[+] http://linuxpitstop.com/install-ssmtp-to-send-emails-to-gmail-and-office3655/
+[+] https://www.cyberciti.biz/faq/installing-rhel-epel-repo-on-centos-redhat-7-x/
+[+] https://www.cyberciti.biz/tips/linux-use-gmail-as-a-smarthost.html
